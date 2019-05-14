@@ -1,0 +1,7 @@
+C:\Users\raluca\source\repos\AfisareIntervalNumereSelectiv\AfisareIntervalNumereSelectiv\bin\Debug\AfisareIntervalNumereSelectiv.exe.config
+C:\Users\raluca\source\repos\AfisareIntervalNumereSelectiv\AfisareIntervalNumereSelectiv\bin\Debug\AfisareIntervalNumereSelectiv.exe
+C:\Users\raluca\source\repos\AfisareIntervalNumereSelectiv\AfisareIntervalNumereSelectiv\bin\Debug\AfisareIntervalNumereSelectiv.pdb
+C:\Users\raluca\source\repos\AfisareIntervalNumereSelectiv\AfisareIntervalNumereSelectiv\obj\Debug\AfisareIntervalNumereSelectiv.csprojAssemblyReference.cache
+C:\Users\raluca\source\repos\AfisareIntervalNumereSelectiv\AfisareIntervalNumereSelectiv\obj\Debug\AfisareIntervalNumereSelectiv.csproj.CoreCompileInputs.cache
+C:\Users\raluca\source\repos\AfisareIntervalNumereSelectiv\AfisareIntervalNumereSelectiv\obj\Debug\AfisareIntervalNumereSelectiv.exe
+C:\Users\raluca\source\repos\AfisareIntervalNumereSelectiv\AfisareIntervalNumereSelectiv\obj\Debug\AfisareIntervalNumereSelectiv.pdb

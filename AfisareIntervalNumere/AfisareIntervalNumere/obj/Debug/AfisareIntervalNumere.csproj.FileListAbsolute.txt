@@ -1,0 +1,7 @@
+C:\Users\raluca\source\repos\AfisareIntervalNumere\AfisareIntervalNumere\bin\Debug\AfisareIntervalNumere.exe.config
+C:\Users\raluca\source\repos\AfisareIntervalNumere\AfisareIntervalNumere\bin\Debug\AfisareIntervalNumere.exe
+C:\Users\raluca\source\repos\AfisareIntervalNumere\AfisareIntervalNumere\bin\Debug\AfisareIntervalNumere.pdb
+C:\Users\raluca\source\repos\AfisareIntervalNumere\AfisareIntervalNumere\obj\Debug\AfisareIntervalNumere.csprojAssemblyReference.cache
+C:\Users\raluca\source\repos\AfisareIntervalNumere\AfisareIntervalNumere\obj\Debug\AfisareIntervalNumere.csproj.CoreCompileInputs.cache
+C:\Users\raluca\source\repos\AfisareIntervalNumere\AfisareIntervalNumere\obj\Debug\AfisareIntervalNumere.exe
+C:\Users\raluca\source\repos\AfisareIntervalNumere\AfisareIntervalNumere\obj\Debug\AfisareIntervalNumere.pdb
