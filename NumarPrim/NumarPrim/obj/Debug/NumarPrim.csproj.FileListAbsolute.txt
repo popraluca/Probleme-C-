@@ -1,0 +1,7 @@
+C:\Users\raluca\source\repos\NumarPrim\NumarPrim\bin\Debug\NumarPrim.exe.config
+C:\Users\raluca\source\repos\NumarPrim\NumarPrim\bin\Debug\NumarPrim.exe
+C:\Users\raluca\source\repos\NumarPrim\NumarPrim\bin\Debug\NumarPrim.pdb
+C:\Users\raluca\source\repos\NumarPrim\NumarPrim\obj\Debug\NumarPrim.csprojAssemblyReference.cache
+C:\Users\raluca\source\repos\NumarPrim\NumarPrim\obj\Debug\NumarPrim.csproj.CoreCompileInputs.cache
+C:\Users\raluca\source\repos\NumarPrim\NumarPrim\obj\Debug\NumarPrim.exe
+C:\Users\raluca\source\repos\NumarPrim\NumarPrim\obj\Debug\NumarPrim.pdb
